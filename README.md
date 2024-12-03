@@ -2,6 +2,7 @@
 
 A modern, interactive redesign of the Apple website, showcasing enhanced user experience and advanced animations using **React.js**, **GSAP**, and **three.fiber**. This project is a portfolio piece aimed at demonstrating expertise in front-end development, 3D graphics, and web animations.
 
+
 ## 🚀 Features
 
 - 3D Product Interactions: Seamlessly integrated 3D models using three.fiber for immersive product experiences.
@@ -23,15 +24,12 @@ A modern, interactive redesign of the Apple website, showcasing enhanced user ex
 
 ## 📸 Preview
 
-|-----------------------------|---------------------------------------|
+![image](https://github.com/user-attachments/assets/3151c459-bd66-4e52-9f48-f52c48bd0369) 
+![image](https://github.com/user-attachments/assets/40c8b61e-a0d0-4fa3-808a-c56a18078dfd) 
 ![image](https://github.com/user-attachments/assets/5c7f53ce-9184-4ec5-bac3-a3e7d1177b55)
 ![image](https://github.com/user-attachments/assets/fe9330a4-a57a-4d2a-91ad-cc7fb6c7fd40)
-![image](https://github.com/user-attachments/assets/40c8b61e-a0d0-4fa3-808a-c56a18078dfd) 
-![image](https://github.com/user-attachments/assets/3151c459-bd66-4e52-9f48-f52c48bd0369) 
 ![image](https://github.com/user-attachments/assets/75a7f652-72fc-417b-a5b9-714220002dba)
 
-
----
 
 ## 🖥️ Getting Started
 
@@ -55,7 +53,6 @@ A modern, interactive redesign of the Apple website, showcasing enhanced user ex
 5. Open the project in your browser:
    http://localhost:3000
 
----
 
 ## ✨ Highlights
 
@@ -69,7 +66,6 @@ A modern, interactive redesign of the Apple website, showcasing enhanced user ex
 3. **Mobile-First Approach**:
    - Carefully designed to provide a seamless experience on mobile devices without sacrificing interactivity.
 
----
 
 ## 📧 Contact
 
