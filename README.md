@@ -23,11 +23,12 @@ A modern, interactive redesign of the Apple website, showcasing enhanced user ex
 
 ## 📸 Preview
 
-| Feature                     | Screenshot/Video                      |
 |-----------------------------|---------------------------------------|
-| Landing Page Animation      | [Video](#)                           |
-| Interactive 3D iPhone Model | ![image](https://github.com/user-attachments/assets/40c8b61e-a0d0-4fa3-808a-c56a18078dfd) |
-| Product Page Design         | ![image](https://github.com/user-attachments/assets/3151c459-bd66-4e52-9f48-f52c48bd0369) |
+![image](https://github.com/user-attachments/assets/5c7f53ce-9184-4ec5-bac3-a3e7d1177b55)
+![image](https://github.com/user-attachments/assets/fe9330a4-a57a-4d2a-91ad-cc7fb6c7fd40)
+![image](https://github.com/user-attachments/assets/40c8b61e-a0d0-4fa3-808a-c56a18078dfd) 
+![image](https://github.com/user-attachments/assets/3151c459-bd66-4e52-9f48-f52c48bd0369) 
+![image](https://github.com/user-attachments/assets/75a7f652-72fc-417b-a5b9-714220002dba)
 
 
 ---
@@ -36,30 +37,23 @@ A modern, interactive redesign of the Apple website, showcasing enhanced user ex
 
 ### Prerequisites
 - **Node.js** (v16 or higher)
-- **npm** or **yarn**
+- **npm**
 
 ### Installation
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/apple-redesign.git
-   ```
 2. Navigate to the project directory:
    ```bash
    cd apple-redesign
-   ```
 3. Install dependencies:
    ```bash
    npm install
-   ```
 4. Start the development server:
    ```bash
    npm run dev
-   ```
 5. Open the project in your browser:
-   ```
    http://localhost:3000
-   ```
 
 ---
 
@@ -77,33 +71,9 @@ A modern, interactive redesign of the Apple website, showcasing enhanced user ex
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have ideas or enhancements, feel free to open an issue or submit a pull request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 🌟 Acknowledgments
-
-- **Apple Inc.** for inspiring the design and functionality.
-- **GSAP and Three.js communities** for their excellent resources and libraries.
-- Open-source contributors for tools and assets used in this project.
-
----
-
 ## 📧 Contact
 
 For questions or collaborations, reach out via:
-- **Email**: your-email@example.com
-- **Portfolio**: [your-portfolio-link](#)
-- **GitHub**: [your-github-link](#)
-
----
-
-Let me know if you'd like to customize this further! 🚀
+- **Email**: parthsinghal23.cs@gmail.com
+- **Portfolio**: [https://portfolio-six-ashy-50.vercel.app/](#)
+- **GitHub**: [https://github.com/SParth-23](#)
