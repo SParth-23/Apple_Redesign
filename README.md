@@ -1,4 +1,4 @@
-# 🍎 Apple Website Redesign  
+# Apple Website Redesign  
 
 A **modern and interactive redesign** of the Apple website, highlighting a superior user experience and cutting-edge animations. Built with **React.js**, **GSAP**, and **three.fiber**, this project demonstrates expertise in front-end development, 3D graphics, and web animations.  
 
